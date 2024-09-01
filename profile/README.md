@@ -29,9 +29,9 @@ We’re excited to have you join our community! Here are a few ways you can get 
 
 ## Screenshots
 
-| **Telegram Bot**   | **Open API** | **Data vizualizations** |
+| **Applications**   | **Open API** | **Data vizualizations** |
 |:------------------:|:------------:|:-----------------------:|
-| ![Telegram Bot](#) | ![image](https://github.com/user-attachments/assets/87f8ff1a-354f-44f4-a9d0-5db1bdd3f003) | ![HeatMap](https://github.com/user-attachments/assets/19829c62-4116-4ded-beb5-c94f3b175875)  |
+| ![image](https://github.com/user-attachments/assets/470a747b-2601-406c-8a13-fa87d72694a6)| ![image](https://github.com/user-attachments/assets/87f8ff1a-354f-44f4-a9d0-5db1bdd3f003) | ![HeatMap](https://github.com/user-attachments/assets/19829c62-4116-4ded-beb5-c94f3b175875)  |
                                                                                                              
 
 ## License
