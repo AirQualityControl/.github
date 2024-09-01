@@ -29,7 +29,7 @@ We’re excited to have you join our community! Here are a few ways you can get 
 
 ## Screenshots
 
-| **Telegram Bot** | **Open API** | **Heatmap** |
+| **Telegram Bot** | **Open API** | **Data vizualizations** |
 |:----------------:|:------------:|:-----------:|
 | ![Telegram Bot](#) | ![Open API](#) | ![Heatmap](#) |
 
