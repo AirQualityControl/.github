@@ -31,7 +31,8 @@ We’re excited to have you join our community! Here are a few ways you can get 
 
 | **Telegram Bot**   | **Open API** | **Data vizualizations** |
 |:------------------:|:------------:|:-----------------------:|
-| ![Telegram Bot](#) | ![image](https://github.com/user-attachments/assets/87f8ff1a-354f-44f4-a9d0-5db1bdd3f003) | ![Heatmap](#) |
+| ![Telegram Bot](#) | ![image](https://github.com/user-attachments/assets/87f8ff1a-354f-44f4-a9d0-5db1bdd3f003) | ![HeatMap](https://github.com/user-attachments/assets/19829c62-4116-4ded-beb5-c94f3b175875)
+ |
 
 ## License
 
